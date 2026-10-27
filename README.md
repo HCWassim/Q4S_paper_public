@@ -16,7 +16,7 @@ This repository hosts preprints and reference materials for ongoing research and
 * **Title:** *Application of Quantum Self Supervised Learning for Semantic Segmentation*
 * **Authors:** Wassim Hadj-Cherif, T. Bolisetti
 * **Status:** Accepted at QTML 2026
-* **Access:** [Download Preprint (PDF)](./path_to_qtml_paper.pdf) *(or link to arXiv)*
+* **Access:** [Download Preprint (PDF)](https://github.com/HCWassim/Q4S_paper_public/blob/main/qtml.pdf)
 
 ---
 
